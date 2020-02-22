@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a314ca5b-390c-4718-bf8b-27cabee28ac6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/news.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lab-79-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582303189214</updated>
       <workItem from="1582303190661" duration="930000" />
-      <workItem from="1582348705614" duration="9181000" />
+      <workItem from="1582348705614" duration="9343000" />
     </task>
     <task id="LOCAL-00001" summary="add index js file">
       <created>1582303303940</created>
@@ -112,7 +108,35 @@
       <option name="project" value="LOCAL" />
       <updated>1582348873321</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="file comments.js work is over">
+      <created>1582375663618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582375663618</updated>
+    </task>
+    <task id="LOCAL-00007" summary="file news.js work is over">
+      <created>1582375677869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582375677869</updated>
+    </task>
+    <task id="LOCAL-00008" summary="file config.js work is over">
+      <created>1582375693501</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582375693501</updated>
+    </task>
+    <task id="LOCAL-00009" summary="file index.js work is over">
+      <created>1582375703522</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582375703522</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,17 +148,21 @@
     <MESSAGE value="add gitignore file" />
     <MESSAGE value="add file news.js" />
     <MESSAGE value="add file comments.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file comments.js" />
+    <MESSAGE value="file comments.js work is over" />
+    <MESSAGE value="file news.js work is over" />
+    <MESSAGE value="file config.js work is over" />
+    <MESSAGE value="file index.js work is over" />
+    <option name="LAST_COMMIT_MESSAGE" value="file index.js work is over" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="307" width="552" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582303274279">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
     <state x="679" y="307" width="552" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1038@0.0.1920.1038" timestamp="1582303274279" />
-    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2" timestamp="1582375693391">
+    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2" timestamp="1582375703453">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2/0.0.1920.1038@0.0.1920.1038" timestamp="1582375693391" />
+    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2/0.0.1920.1038@0.0.1920.1038" timestamp="1582375703453" />
     <state x="743" y="276" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582303403841">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
