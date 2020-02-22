@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a314ca5b-390c-4718-bf8b-27cabee28ac6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a314ca5b-390c-4718-bf8b-27cabee28ac6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582303189214</updated>
       <workItem from="1582303190661" duration="930000" />
-      <workItem from="1582348705614" duration="9343000" />
+      <workItem from="1582348705614" duration="9592000" />
     </task>
     <task id="LOCAL-00001" summary="add index js file">
       <created>1582303303940</created>
@@ -136,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582375703522</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add db file">
+      <created>1582375995696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582375995696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,17 +157,18 @@
     <MESSAGE value="file news.js work is over" />
     <MESSAGE value="file config.js work is over" />
     <MESSAGE value="file index.js work is over" />
-    <option name="LAST_COMMIT_MESSAGE" value="file index.js work is over" />
+    <MESSAGE value="add db file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add db file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="307" width="552" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582303274279">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
     <state x="679" y="307" width="552" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1038@0.0.1920.1038" timestamp="1582303274279" />
-    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2" timestamp="1582375703453">
+    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2" timestamp="1582375995624">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2/0.0.1920.1038@0.0.1920.1038" timestamp="1582375703453" />
+    <state x="524" y="25" width="862" height="980" key="CommitChangelistDialog2/0.0.1920.1038@0.0.1920.1038" timestamp="1582375995624" />
     <state x="743" y="276" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582303403841">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
